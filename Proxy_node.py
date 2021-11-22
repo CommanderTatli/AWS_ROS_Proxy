@@ -102,9 +102,9 @@ def start_lambda(ip):
 
         'lambda',
 
-        aws_access_key_id="AKIA2X5CLV52DM422DIO",
+        aws_access_key_id="KEY",
 
-        aws_secret_access_key="FtkV+ZEIgZkA+eVyq947MKWm6E9uflI5yN/G4uWH",
+        aws_secret_access_key="KEY",
 
         region_name='us-east-2'
 
